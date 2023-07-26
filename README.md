@@ -1,0 +1,2 @@
+# QoS_Prediction_Challenge_Second_Place_Solution
+Second Place solution for QoS_Prediction_Challenge by Zindi
